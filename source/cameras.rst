@@ -26,4 +26,6 @@ Linux
   camera/adsc/doc/index
   camera/mythen/doc/index
   camera/ueye/doc/index
+  camera/andor/doc/index
+  camera/xpad/doc/index
 
